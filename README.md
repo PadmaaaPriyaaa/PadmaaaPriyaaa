@@ -7,7 +7,7 @@ Seeking Software Development Opportunities
 
 - 📫 How to reach me *chenchamgaripadmapriya999@gmail.com*
 
-- 👨‍💻 All of my projects are available at [https://github.com/PadmaaaPriyaaa](https://github.com/PadmaaaPriyaaa)
+- 👨‍💻 All of my projects are available at [https://padmaaapriyaaa.github.io/padmapriya.github.io/](https://padmaaapriyaaa.github.io/padmapriya.github.io/)
 
 - 📄 Know about me [https://www.linkedin.com/in/chenchamgari-padmapriya](https://www.linkedin.com/in/chenchamgari-padmapriya)
 
