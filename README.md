@@ -1,4 +1,4 @@
- # chenchamgari-Padmapriya
+ # Padmapriya-Chenchamgari
 Hi 👋, I'm Padmapriya
 
 Seeking Software Development Opportunities
