@@ -16,9 +16,7 @@ Seeking Software Development Opportunities
 Skills
 
   Programming Languages :
-    Python, 
-    Artificial Intelligence,
-    Machine Learning
+    Python
 
   Database :
     MangoDB,
