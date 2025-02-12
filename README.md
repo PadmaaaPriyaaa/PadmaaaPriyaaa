@@ -15,7 +15,7 @@ Seeking Software Development Opportunities
 
 Skills
 
-  Programming Languages :
+  Programming Language :
     Python
 
   Database :
