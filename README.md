@@ -35,4 +35,4 @@ Skills
     Opencv,
     Pytorch,
     Tensorflow,
-    Scikit_learn
+    Scikit-learn
