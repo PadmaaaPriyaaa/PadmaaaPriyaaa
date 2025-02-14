@@ -19,8 +19,7 @@ Skills
     Python
 
   Database :
-    MangoDB,
-    MySQL
+    SQL
 
   Frontend Development :
     HTML,
