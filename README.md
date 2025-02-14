@@ -25,7 +25,7 @@ Skills
    GitHub,
    Visual Studio Code
    
-  Frontend Development :
+  Web Development :
     HTML,
     CSS,
     JavaScript
@@ -34,6 +34,5 @@ Skills
     Pandas,
     Seaborn,
     Opencv,
-    Pytorch,
     Tensorflow,
     Scikit-learn
