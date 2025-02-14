@@ -20,7 +20,11 @@ Skills
 
   Database :
     SQL
-
+    
+  Tools :
+   GitHub,
+   Visual Studio Code
+   
   Frontend Development :
     HTML,
     CSS,
