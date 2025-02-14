@@ -3,7 +3,7 @@ Hi 👋, I'm Padmapriya
 
 Seeking Software Development Opportunities
 
-- 🌱 I’m currently pursuing my Graduation
+- 🌱 B.Tech in Computer Science and Engineering, Expected Graduation in 2025
 
 - 📫 How to reach me *chenchamgaripadmapriya999@gmail.com*
 
