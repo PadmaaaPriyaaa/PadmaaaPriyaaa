@@ -11,7 +11,7 @@ Seeking Software Development Opportunities
 
 - 📄 Know about me [https://www.linkedin.com/in/chenchamgari-padmapriya](https://www.linkedin.com/in/chenchamgari-padmapriya)
 
-- 🔗 Resume link [https://drive.google.com/file/d/11J2Kx6WJ6BcOw6tf52eMO9qAv-9dCVv-/view?usp=drivesdk ](https://drive.google.com/file/d/11J2Kx6WJ6BcOw6tf52eMO9qAv-9dCVv-/view?usp=drivesdk).
+- 🔗 Resume link [https://drive.google.com/file/d/15jyqWgBo8ksywhrYRcOWuNkro16OkK1V/view?usp=drivesdk](https://drive.google.com/file/d/15jyqWgBo8ksywhrYRcOWuNkro16OkK1V/view?usp=drivesdk).
 
 Skills
 
