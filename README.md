@@ -3,7 +3,7 @@ Hi 👋, I'm Padmapriya
 
 Seeking Software Development Opportunities
 
-- 🌱 B.Tech in Computer Science and Engineering, Expected Graduation in 2025
+- 🌱 BBachelor of Technology (B.Tech) in Computer Science and Engineering, Visvodaya Engineering College
 
 - 📫 How to reach me *chenchamgaripadmapriya999@gmail.com*
 
