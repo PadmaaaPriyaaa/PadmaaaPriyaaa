@@ -1,4 +1,4 @@
- # Padmapriya-Chenchamgari
+# Padmapriya-Chenchamgari
 Hi 👋, I'm Padmapriya
 
 Seeking Software Development Opportunities
@@ -16,10 +16,10 @@ Seeking Software Development Opportunities
 Skills
 
   Programming Language :
-    Python
+    C,Java
 
   Database :
-    SQL
+    MySQL
     
   Tools :
    GitHub,
@@ -30,9 +30,4 @@ Skills
     CSS,
     JavaScript
   
-  AI/ML :
-    Pandas,
-    Seaborn,
-    Opencv,
-    Tensorflow,
-    Scikit-learn
+ 
