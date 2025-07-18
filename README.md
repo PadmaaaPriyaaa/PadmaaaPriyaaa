@@ -16,8 +16,8 @@ Seeking Software Development Opportunities
 Skills
 
   Programming Language :
-    C
-    Java
+    C,
+   Java
 
   Database :
     MySQL
