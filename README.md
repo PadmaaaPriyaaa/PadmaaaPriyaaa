@@ -9,7 +9,7 @@ Seeking Software Development Opportunities
 
 - 👨‍💻 Some of my projects are available at [https://padmaaapriyaaa.github.io/padmapriya.github.io/](https://padmaaapriyaaa.github.io/padmapriya.github.io/)
 
-- 📄 Know about me [https://www.linkedin.com/in/chenchamgari-padmapriya](https://www.linkedin.com/in/chenchamgari-padmapriya)
+- 📄 Know about me [https://www.linkedin.com/in/chenchamgari-padmapriya/](https://www.linkedin.com/in/chenchamgari-padmapriya/)
 
 - 🔗 Resume link [(https://drive.google.com/file/d/1OQXBqdffyvzqP5UUiEducofczk9GRMbC/view?usp=sharing)]
   (https://drive.google.com/file/d/1OQXBqdffyvzqP5UUiEducofczk9GRMbC/view?usp=sharing)
