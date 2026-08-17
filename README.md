@@ -24,19 +24,19 @@ Skills
    React Hooks
 
  Backend :
-   Java
+   Java,
    Node.js
 
  Database :
-   SQL
-    Oracle
+   SQL,
+   Oracle
 
  APIs :
    REST APIs,
    API Integration
     
  Tools :
-   Git
+   Git,
    GitHub
    
   
