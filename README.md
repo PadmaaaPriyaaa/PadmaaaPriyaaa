@@ -16,20 +16,30 @@ Seeking Software Development Opportunities
 
 Skills
 
-  Programming Language :
-    C,
-   Java
+ Frontend :
+   HTML,
+   CSS,
+   JavaScript,
+   React.js,
+   React Hooks
 
-  Database :
-    MySQL
+ Backend :
+   Java
+   Node.js
+
+ Database :
+   SQL
+    Oracle
+
+ APIs :
+   REST APIs,
+   API Integration
     
-  Tools :
-   GitHub,
-   Visual Studio Code
+ Tools :
+   Git
+   GitHub
    
-  Web Development :
-    HTML,
-    CSS,
-    JavaScript
+  
+ 
   
  
